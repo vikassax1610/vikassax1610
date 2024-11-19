@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **HTML, CSS, BOOTSTRAP, TAILWINDCSS, JAVASCRIPT, REACTJS, NODEJS, ExpressJS, MongoDB, SQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vikassax1610](https://github.com/vikassax1610)
+- 👨‍💻 All of my projects are available at [GITHUB REPO](https://github.com/vikassax1610)
 
 - 📫 How to reach me **vikassaxena816@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14qIzjjy82FLMZi-spIYyAoNQSgXAQgSc/view?usp=sharing](https://drive.google.com/file/d/14qIzjjy82FLMZi-spIYyAoNQSgXAQgSc/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1d894PSo0DSXiPxpm8lgMqM3xOU7fB_j9/view?usp=drive_link)
 
 - ⚡ Fun fact **CONTINEOUS LEARNING**
 
