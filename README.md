@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vikas Saxena</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/vikas_only_" target="blank"><img src="https://img.shields.io/twitter/follow/vikas_only_?logo=twitter&style=for-the-badge" alt="vikas_only_" /></a> </p>
 
-- 🔭 I’m currently working on [BLOG WEBSITE](https://vikassax1610.github.io/blog_website_temp/)
+- 🔭 My Portfolio [PORTFOLIO](https://codebyvikas.netlify.app/)
 
-- 🌱 I’m currently learning **HTML, CSS, BOOTSTRAP, TAILWINDCSS, JAVASCRIPT, REACTJS, NODEJS,**
+- 🌱 I’m currently learning **HTML, CSS, BOOTSTRAP, TAILWINDCSS, JAVASCRIPT, REACTJS, NODEJS, ExpressJS, MongoDB, SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vikassax1610](https://github.com/vikassax1610)
 
