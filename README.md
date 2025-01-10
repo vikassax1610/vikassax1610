@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vikassaxena816@gmail.com**
 
-- 📄 Know about my experiences [RESUME]([https://drive.google.com/file/d/1d894PSo0DSXiPxpm8lgMqM3xOU7fB_j9/view?usp=drive_link](https://drive.google.com/file/d/1Lv-MOGKeBZ5kMiSm8zzMXzstYsSPNnlJ/view?usp=sharing))
+- 📄 Know about my experiences [RESUME]([https://drive.google.com/file/d/1Lv-MOGKeBZ5kMiSm8zzMXzstYsSPNnlJ/view?usp=sharing])
 
 - ⚡ Fun fact **CONTINEOUS LEARNING**
 
