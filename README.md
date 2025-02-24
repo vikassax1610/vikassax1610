@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=Hello,+I’m+Vikas+Saxena;Frontend+Wizard+at+Work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello,+I’m+Vikas+Saxena;Frontend+Wizard+at+Work;Building+Pixel-Perfect+UIs!" alt="Typing SVG" />
 </p>
 
-<h3 align="center">👨‍💻 Frontend Developer | Passionate about Building Stunning Web Experiences</h3>
+<h2 align="center">👨‍💻 Frontend Developer | Passionate about Building Stunning Web Experiences</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF" />
 </p>
 
 ---
 
-## 🌎 Connect with Me  
+## 🌍 Connect with Me  
 <p align="center">
   <a href="https://twitter.com/vikas_only_" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
@@ -25,14 +25,14 @@
 
 ---
 
-## 🛠 Tech Stack  
+## 🚀 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,bootstrap,tailwind,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,bootstrap,tailwind,git,github,vscode" />
 </p>
 
 ---
 
-## 🌟 My Creations  
+## ✨ My Creations  
 <p align="center">
   <a href="https://codebyvikas.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
@@ -47,7 +47,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📈 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vikassax1610&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
@@ -64,9 +64,10 @@
 
 ## ⚡ Fun Vibes  
 - 🚀 Constantly **learning and evolving**  
-- ☕ Fueling my creativity with coffee  
-- 🎮 Gamer at heart, coder by passion  
+- ☕ Fueling my creativity with **coffee**  
+- 🎮 Gamer at heart, **coder by passion**  
 - 💡 Exploring **AI & Web Animations**  
+- 🌟 Striving to craft **next-level web experiences**
 
 ---
 
