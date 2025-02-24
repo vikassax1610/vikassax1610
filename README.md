@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hey There, I'm Vikas Saxena</h1>
-<h3 align="center">🌟 Full Stack Developer | Crafting Awesome Web Experiences 🚀</h3>
+<h3 align="center">🌟 Front end Developer | Crafting Awesome Web Experiences 🚀</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF" />
