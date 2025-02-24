@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hello++I'm+Vikas+Saxena" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=Hello,+I’m+Vikas+Saxena;Frontend+Wizard+at+Work" alt="Typing SVG" />
 </p>
 
-<h1 align="center">🚀 Hey There, I'm Vikas Saxena</h1>
-<h3 align="center">👨‍💻 Frontend Developer | Passionate about Building Stunning Web Experiences</h3>
+<h1 align="center">🚀 Greetings, I’m Vikas Saxena</h1>
+<h3 align="center">👨‍💻 Frontend Developer | Crafting Next-Level Web Realities</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="500" alt="Coding GIF" />
 </p>
 
 ---
 
-## 🌎 Connect with Me  
+## 🌌 Let’s Connect Across the Cosmos  
 <p align="center">
   <a href="https://twitter.com/vikas_only_" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
@@ -26,14 +26,14 @@
 
 ---
 
-## 🛠 Tech Stack  
+## ⚙️ My Tech Arsenal  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,bootstrap,tailwind,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,bootstrap,tailwind,git&perline=6" />
 </p>
 
 ---
 
-## 🌟 My Creations  
+## 🌠 Galactic Creations  
 <p align="center">
   <a href="https://codebyvikas.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
@@ -48,33 +48,33 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📈 Stats from the Multiverse  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikassax1610&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vikassax1610&show_icons=true&theme=gruvbox&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF007A" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikassax1610&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikassax1610&theme=gruvbox&hide_border=true&background=0D1117&stroke=FF007A&ring=00F7FF" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassax1610&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassax1610&layout=compact&theme=gruvbox&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Top Languages" />
 </p>
 
 ---
 
-## ⚡ Fun Vibes  
-- 🚀 Constantly **learning and evolving**  
-- ☕ Fueling my creativity with coffee  
-- 🎮 Gamer at heart, coder by passion  
-- 💡 Exploring **AI & Web Animations**  
+## 🌩️ Cosmic Vibes  
+- 🚀 **Evolving at Light-Speed** with every project  
+- ☕ Powered by **Quantum Coffee**  
+- 🎮 Gamer by night, **Code Alchemist** by day  
+- 💡 Diving into **AI-Driven Webscapes** & **3D Animations**  
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vikassax1610&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vikassax1610&style=flat-square&color=00F7FF&label=Profile+Scans" alt="Profile Views" />
 </p>
 
 <p align="center">
-  💙 Made with Love by **Vikas Saxena** | Let’s build something amazing together! 🚀
+  💙 Forged with Passion by <strong>Vikas Saxena</strong> | Let’s Ignite the Web Together! 🚀
 </p>
