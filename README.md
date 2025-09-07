@@ -23,7 +23,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" width="25"/> **Computer Science Student** | Building Tomorrow's Tech Today<br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" width="25"/> **Full-Stack Developer** | Passionate About Clean Code<br>
-<img src="https://img.icons8.com/fluency/48/marker.png" width="20"/> **Location:** Your City, Country<br>
+<img src="https://img.icons8.com/fluency/48/marker.png" width="20"/> **Location:** Noida, India<br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Rocket.webp" width="25"/> **Mission:** Creating Digital Solutions That Matter
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -40,7 +40,7 @@
 <tr>
 <td width="50%">
 
-### 🌐 [Personal Portfolio](https://yourportfolio.com)
+### 🌐 [Personal Portfolio](https://vercel.com/vikassax1610s-projects/portfolio2-0-53k4)
 **Modern portfolio website**  
 `React` `TypeScript` `Tailwind CSS` `Framer Motion`
 
@@ -88,28 +88,28 @@ Feature-rich task management app with offline support and cloud synchronization.
 <details open>
   <summary><h3>🎨 Frontend Development</h3></summary>
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vue,angular,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,bootstrap" />
   </p>
 </details>
 
 <details open>
   <summary><h3>⚙️ Backend & Server</h3></summary>
   <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java,spring,php,laravel" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express" />
   </p>
 </details>
 
 <details open>
   <summary><h3>🗄️ Databases & Cloud</h3></summary>
   <p>
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase,aws,azure,gcp" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
   </p>
 </details>
 
 <details open>
   <summary><h3>🛠️ Development Tools</h3></summary>
   <p>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,webpack,vite,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,webpack,vite,figma" />
   </p>
 </details>
 
