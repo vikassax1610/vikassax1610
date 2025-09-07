@@ -49,29 +49,29 @@ A sleek, responsive portfolio showcasing my projects with smooth animations and 
 </td>
 <td width="50%">
 
-### 🎮 [Game Hub](https://yourgamehub.com)
+### 🖥️ [Nidhimani Dashboard](https://tourmaline-meerkat-094164.netlify.app/)
 **Interactive gaming platform**  
-`Next.js` `Node.js` `MongoDB` `Socket.io`
+`React.js` `TailwindCSS` `Framer Motion` `TipTap Editor` 
 
-Real-time multiplayer gaming platform with user authentication and live chat features.
+An interactive dashboard for monitoring key metrics, visualizing data, and managing tasks in real time.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🛒 [E-Commerce Dashboard](https://yourdashboard.com)
-**Admin panel for online stores**  
-`Vue.js` `Express.js` `PostgreSQL` `Chart.js`
+### 🎮 [Super Mario Bros](https://yourdashboard.com)
+**Level 1 of Super Mario Bros**  
+`Cocos` `TypeScript` 
 
 Comprehensive dashboard with analytics, inventory management, and real-time sales tracking.
 
 </td>
 <td width="50%">
 
-### 📱 [Mobile Task Manager](https://yourtaskmanager.com)
-**Cross-platform productivity app**  
-`React Native` `Firebase` `Redux` `Expo`
+### 🤖 [Content generator](https://aigenerator-seven.vercel.app/)
+**Ai Content Generator**  
+`React js` `Google Gemini`
 
 Feature-rich task management app with offline support and cloud synchronization.
 
