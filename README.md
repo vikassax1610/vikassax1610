@@ -120,21 +120,21 @@ Feature-rich task management app with offline support and cloud synchronization.
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=tokyonight" width="100%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikassax1610&theme=tokyonight" width="100%" />
 </div>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourusername&theme=tokyonight" width="49%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yourusername&theme=tokyonight" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vikassax1610&theme=tokyonight" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vikassax1610&theme=tokyonight" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&border_radius=20" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vikassax1610&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikassax1610&theme=tokyonight&hide_border=true&border_radius=20" width="49%" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassax1610&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" />
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -145,23 +145,23 @@ Feature-rich task management app with offline support and cloud synchronization.
 </div>
 
 <div align="center">
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/vikassax1610" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   
-  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+  <a href="https://www.linkedin.com/in/vikassaxena816/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
-  <a href="https://twitter.com/yourhandle" target="_blank">
+  <a href="https://x.com/vikas_only_" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   
-  <a href="mailto:your.email@gmail.com" target="_blank">
+  <a href="mailto:vikassaxena816@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://vercel.com/vikassax1610s-projects/portfolio2-0-53k4" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
 </div>
@@ -199,9 +199,9 @@ Master microservices architecture and contribute to open-source projects.
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=yellow" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=vikassax1610&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/vikassax1610?style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/vikassax1610?style=for-the-badge&color=yellow" alt="Stars" />
 </div>
 
 <p align="center">
