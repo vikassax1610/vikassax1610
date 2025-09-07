@@ -24,7 +24,8 @@
 <img src="https://img.icons8.com/emoji/48/graduation-cap-emoji.png" width="25"/> <b>Computer Science Student</b> | Building Tomorrow's Tech Today<br>
 <img src="https://img.icons8.com/fluency/48/laptop.png" width="25"/> <b>Full-Stack Developer</b> | Passionate About Clean Code<br>
 <img src="https://img.icons8.com/color/48/marker.png" width="20"/> <b>Location:</b> Noida, India<br>
-<img src="https://img.icons8.com/emoji/48/rocket-emoji.png" width="25"/> <b>Mission:</b> Creating Digital Solutions That Matter
+<img src="https://img.icons8.com/emoji/48/rocket-emoji.png" width="25" alt="Rocket" />
+<b>Mission:</b> Creating Digital Solutions That Matter
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
