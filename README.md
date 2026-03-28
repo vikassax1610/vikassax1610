@@ -1,220 +1,327 @@
-<h1 align="center">
-  Hello, I'm VIKAS SAXENA! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="👋" />
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Creative+Frontend+Engineer+%F0%9F%9A%80;Crafting+Digital+Experiences;Building+the+Future+of+Web+%E2%9C%A8;Welcome+to+my+Digital+Universe!" alt="Typing Animation"/>
-</p>
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%F0%9F%8C%9F-purple?style=for-the-badge&labelColor=000000&color=6A0DAD" />
-  <img src="https://img.shields.io/badge/UI%2FUX%20Designer-%F0%9F%8E%A8-orange?style=for-the-badge&labelColor=000000&color=FF4500" />
-  <img src="https://img.shields.io/badge/Problem%20Solver-%F0%9F%A7%A0-green?style=for-the-badge&labelColor=000000&color=00FF7F" />
+
+<!-- MATRIX RAIN HEADER -->
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  ██╗   ██╗██╗██╗  ██╗ █████╗ ███████╗    ███████╗ █████╗ ██╗  ██╗  ║
+║  ██║   ██║██║██║ ██╔╝██╔══██╗██╔════╝    ██╔════╝██╔══██╗╚██╗██╔╝  ║
+║  ██║   ██║██║█████╔╝ ███████║███████╗    ███████╗███████║ ╚███╔╝   ║
+║  ╚██╗ ██╔╝██║██╔═██╗ ██╔══██║╚════██║    ╚════██║██╔══██║ ██╔██╗   ║
+║   ╚████╔╝ ██║██║  ██╗██║  ██║███████║    ███████║██║  ██║██╔╝ ██╗  ║
+║    ╚═══╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝  ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=900&lines=%5BSYSTEM+BOOT%5D+Initializing+Vikas+Saxena...;%5BSTATUS%5D+Creative+Frontend+Engineer+%E2%9C%93+ONLINE;%5BSTATUS%5D+Full-Stack+Developer+%E2%9C%93+ONLINE;%5BSTATUS%5D+UI%2FUX+Architect+%E2%9C%93+ONLINE;%5BSTATUS%5D+Problem+Solver+%E2%9C%93+ONLINE;%5BMISSION%5D+Building+the+Future+of+the+Web+%F0%9F%9A%80;%5BLOCATION%5D+Noida%2C+India+%F0%9F%8C%90;%5BREADY%5D+Welcome+to+my+Digital+Universe+%E2%9C%A8" alt="Typing SVG" />
+
+<br/>
+
+<!-- NEON BADGES -->
+<img src="https://img.shields.io/badge/%E2%96%B6%20STATUS-OPERATIONAL-00ff41?style=for-the-badge&labelColor=0d0d0d&color=00ff41&logo=statuspage&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/%F0%9F%94%8C%20STACK-FULL_STACK-00f7ff?style=for-the-badge&labelColor=0d0d0d&color=00f7ff" />
+<img src="https://img.shields.io/badge/%E2%9A%A1%20LOCATION-NOIDA%2C_INDIA-ff00ff?style=for-the-badge&labelColor=0d0d0d&color=ff00ff" />
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding" />
+
 </div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation" />
-</p>
+---
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!-- SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" width="35"/> About Me
-
-<img src="https://img.icons8.com/emoji/48/graduation-cap-emoji.png" width="25"/> <b>Computer Science Student</b> | Building Tomorrow's Tech Today<br>
-<img src="https://img.icons8.com/fluency/48/laptop.png" width="25"/> <b>Full-Stack Developer</b> | Passionate About Clean Code<br>
-<img src="https://img.icons8.com/color/48/marker.png" width="20"/> <b>Location:</b> Noida, India<br>
-<span style="font-size:20px;" aria-hidden="true">🚀</span>
-<b>Mission:</b> Creating Digital Solutions That Matter
-
-
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!-- Featured Projects -->
 <div align="center">
-  <h2>
-    <img src="https://i.gifer.com/7efs.gif" width="40" style="vertical-align:middle;"/>
-    🌟 Featured Projects
-  </h2>
+
+## `> SYSTEM.identify()`
+
 </div>
+
+```yaml
+# ╔═══════════════════════════════════════════╗
+# ║         PROFILE CONFIGURATION FILE        ║
+# ╚═══════════════════════════════════════════╝
+
+entity:
+  name: "Vikas Saxena"
+  alias: "vikassax1610"
+  class: "Full-Stack Developer & Creative Engineer"
+  location: "Noida, India 🇮🇳"
+  status: "🟢 ONLINE — Open to Opportunities"
+
+core_modules:
+  - "💡 Creative Problem Solving"
+  - "🎨 UI/UX Architecture"
+  - "⚡ Performance Optimization"
+  - "🔧 Clean Code Evangelism"
+  - "🚀 Scalable System Design"
+
+current_mission: |
+  Building the future of the web —
+  one pixel-perfect component at a time.
+
+philosophy: |
+  "Clean code is not written by following a set of rules.
+   It's written by programmers who care."
+
+daily_stack:
+  fuel: "☕ Coffee"
+  weapon: "⌨️  Mechanical Keyboard"
+  companion: "🎵 Lo-Fi + Code"
+  result: "💫 Digital Magic"
+
+goals_2025:
+  - "🏗️  Master microservices architecture"
+  - "🌍 Contribute to open-source projects"
+  - "📦 Ship 3 production-grade SaaS products"
+  - "🔬 Deep dive into AI/ML integrations"
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+## `> PROJECTS.load("featured")`
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=%5BSCANNING%5D+Loading+project+database...;%5BFOUND%5D+4+featured+repositories+detected;%5BRENDERING%5D+Injecting+into+view..." alt="loader" />
+
+</div>
+
+<br/>
 
 <table align="center">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 [Personal Portfolio](https://vercel.com/vikassax1610s-projects/portfolio2-0-53k4)
-**Modern portfolio website**  
-`React` `TypeScript` `Tailwind CSS` `Framer Motion`
+### ◈ `01` — Personal Portfolio
 
-A sleek, responsive portfolio showcasing my projects with smooth animations and modern design principles.
+```
+┌─────────────────────────────────────┐
+│  🌐 LIVE  →  portfolio2-0-53k4      │
+│  TYPE     →  Personal Website       │
+│  STACK    →  React · TS · Tailwind  │
+│             · Framer Motion         │
+│  STATUS   →  ✅ DEPLOYED            │
+└─────────────────────────────────────┘
+```
+
+Sleek, responsive portfolio with buttery-smooth animations and a design system built from scratch. The kind of site that speaks before you do.
+
+[![LAUNCH](https://img.shields.io/badge/🚀_LAUNCH-00ff41?style=for-the-badge&labelColor=0d0d0d)](https://portfolio2-0-53k4.vercel.app/)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🖥️ [Nidhimani Dashboard](https://tourmaline-meerkat-094164.netlify.app/)
-**Interactive gaming platform**  
-`React.js` `TailwindCSS` `Framer Motion` `TipTap Editor` 
+### ◈ `02` — Nidhimani Dashboard
 
-An interactive dashboard for monitoring key metrics, visualizing data, and managing tasks in real time.
+```
+┌─────────────────────────────────────┐
+│  🖥️  LIVE  →  tourmaline-meerkat    │
+│  TYPE     →  Gaming Platform        │
+│  STACK    →  React · Tailwind ·     │
+│             Framer · TipTap         │
+│  STATUS   →  ✅ DEPLOYED            │
+└─────────────────────────────────────┘
+```
+
+Interactive dashboard for monitoring live metrics, visualizing data, and managing tasks in real time. Full control, zero friction.
+
+[![LAUNCH](https://img.shields.io/badge/🚀_LAUNCH-00ff41?style=for-the-badge&labelColor=0d0d0d)](https://tourmaline-meerkat-094164.netlify.app/)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎮 [Super Mario Bros](https://yourdashboard.com)
-**Level 1 of Super Mario Bros**  
-`Cocos` `TypeScript` 
+### ◈ `03` — Super Mario Bros
 
-Comprehensive dashboard with analytics, inventory management, and real-time sales tracking.
+```
+┌─────────────────────────────────────┐
+│  🎮 TYPE  →  Browser Game           │
+│  STACK    →  Cocos · TypeScript     │
+│  LEVEL    →  World 1-1              │
+│  STATUS   →  🔧 IN PROGRESS         │
+└─────────────────────────────────────┘
+```
+
+A faithful web-based recreation of Level 1 from the original Super Mario Bros — engineered with the Cocos game engine and TypeScript precision.
+
+[![LAUNCH](https://img.shields.io/badge/🎮_PLAY-ff00ff?style=for-the-badge&labelColor=0d0d0d)](https://github.com/vikassax1610)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 [Content generator](https://aigenerator-seven.vercel.app/)
-**Ai Content Generator**  
-`React js` `Google Gemini`
+### ◈ `04` — AI Content Generator
 
-Feature-rich task management app with offline support and cloud synchronization.
+```
+┌─────────────────────────────────────┐
+│  🤖 LIVE  →  aigenerator-seven      │
+│  TYPE     →  AI-Powered App         │
+│  STACK    →  React.js · Gemini AI   │
+│  POWERED  →  Google Gemini          │
+│  STATUS   →  ✅ DEPLOYED            │
+└─────────────────────────────────────┘
+```
+
+Context-aware AI content generator powered by Google Gemini. Prompt it once, get publication-ready content instantly.
+
+[![LAUNCH](https://img.shields.io/badge/🤖_LAUNCH-00f7ff?style=for-the-badge&labelColor=0d0d0d)](https://aigenerator-seven.vercel.app/)
 
 </td>
 </tr>
 </table>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" width="40"/> Technology Arsenal</h1>
-</div>
 
-<details open>
-  <summary><h3>🎨 Frontend Development</h3></summary>
-  <p>
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,bootstrap" />
-  </p>
-</details>
+## `> TECH.arsenal()`
 
-<details open>
-  <summary><h3>⚙️ Backend & Server</h3></summary>
-  <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,express" />
-  </p>
-</details>
-
-<details open>
-  <summary><h3>🗄️ Databases & Cloud</h3></summary>
-  <p>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
-  </p>
-</details>
-
-<details open>
-  <summary><h3>🛠️ Development Tools</h3></summary>
-  <p>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,webpack,vite,figma" />
-  </p>
-</details>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<div align="center">
-  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" alt="Chart" width="40" /> GitHub Analytics</h1>
-</div>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikassax1610&theme=tokyonight" width="100%" />
-</div>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vikassax1610&theme=tokyonight" width="49%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vikassax1610&theme=tokyonight" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikassax1610&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikassax1610&theme=tokyonight&hide_border=true&border_radius=20" width="49%" />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassax1610&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" />
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<div align="center">
-  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Contact" width="40" /> Let's Connect
-  </h1>
-</div>
-
-<div align="center">
-  <a href="https://github.com/vikassax1610" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/vikassaxena816/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  
-  <a href="https://x.com/vikas_only_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  
-  <a href="mailto:vikassaxena816@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  
-  <a href="https://portfolio2-0-53k4.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<div align="center">
-<h2>🌈 Fun Facts About Me</h2>
-
-<table>
-<tr>
-<td width="50%">
-
-🧠 **Code Philosophy**  
-Clean code is not written by following a set of rules. Clean code is written by programmers who care.
-
-🌟 **Current Focus**  
-Building scalable web applications with modern JavaScript frameworks and cloud technologies.
-
-</td>
-<td width="50%">
-
-☕ **Daily Ritual**  
-Coffee + Code + Creativity = Perfect Day
-
-🚀 **Goals for 2025**  
-Master microservices architecture and contribute to open-source projects.
-
-</td>
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=800&color=ff00ff&center=true&vCenter=true&width=600&lines=%5BCOMPILING%5D+Technology+stack+detected...;%5BANALYSIS%5D+15%2B+tools+in+active+use;%5BOUTPUT%5D+Rendering+arsenal+now..." alt="loader" />
 
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vikassax1610&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/vikassax1610?style=for-the-badge&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/vikassax1610?style=for-the-badge&color=yellow" alt="Stars" />
+
+### `[ 🎨 FRONTEND ]`
+
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" />
+
+<br/>
+
+### `[ ⚙️ BACKEND ]`
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+
+<br/>
+
+### `[ 🗄️ DATA LAYER ]`
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" />
+
+<br/>
+
+### `[ 🛠️ DEVTOOLS ]`
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,webpack,vite,figma&theme=dark" />
+
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" width="100%" height="70px">
-</p>
+<br/>
 
-<h3 align="center">
-  ⚡ Powered by Innovation | Designed for Impact | Crafted with 💙
-</h3>
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                     PROFICIENCY MATRIX                             │
+├──────────────────────────┬──────────────────┬──────────────────────┤
+│  SKILL                   │  LEVEL           │  INDICATOR           │
+├──────────────────────────┼──────────────────┼──────────────────────┤
+│  React / Next.js         │  ████████████ 95%│  ◆◆◆◆◆ EXPERT        │
+│  TypeScript              │  ██████████░░ 85%│  ◆◆◆◆◇ ADVANCED      │
+│  Tailwind CSS            │  ████████████ 95%│  ◆◆◆◆◆ EXPERT        │
+│  Node.js / Express       │  ████████░░░░ 75%│  ◆◆◆◇◇ PROFICIENT    │
+│  MongoDB / Firebase      │  ████████░░░░ 75%│  ◆◆◆◇◇ PROFICIENT    │
+│  Framer Motion           │  ██████████░░ 85%│  ◆◆◆◆◇ ADVANCED      │
+│  Figma / UI Design       │  ████████░░░░ 78%│  ◆◆◆◇◇ PROFICIENT    │
+└──────────────────────────┴──────────────────┴──────────────────────┘
+```
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+## `> GITHUB.analytics()`
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikassax1610&theme=tokyonight" width="100%" />
+
+<br/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vikassax1610&theme=tokyonight" width="49%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vikassax1610&theme=tokyonight" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=vikassax1610&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=00f7ff&icon_color=ff00ff&text_color=ffffff&bg_color=0d1117" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vikassax1610&theme=tokyonight&hide_border=true&border_radius=10&ring=ff00ff&fire=00f7ff&currStreakLabel=00ff41" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassax1610&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=00f7ff&text_color=ffffff&bg_color=0d1117" />
+
+<br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikassax1610&bg_color=0d1117&color=00f7ff&line=ff00ff&point=00ff41&area=true&hide_border=true" width="100%" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+## `> SYSTEM.connect()`
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=%5BPING%5D+Establishing+secure+connection...;%5BHANDSHAKE%5D+All+channels+open+%E2%9C%93;%5BREADY%5D+Feel+free+to+reach+out!" alt="loader" />
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-vikassax1610-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d0d0d)](https://github.com/vikassax1610)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-vikassaxena816-00f7ff?style=for-the-badge&logo=linkedin&logoColor=00f7ff&labelColor=0d0d0d)](https://www.linkedin.com/in/vikassaxena816/)
+[![Twitter](https://img.shields.io/badge/TWITTER-vikas__only__-ff00ff?style=for-the-badge&logo=x&logoColor=ff00ff&labelColor=0d0d0d)](https://x.com/vikas_only_)
+[![Gmail](https://img.shields.io/badge/GMAIL-vikassaxena816-ff4444?style=for-the-badge&logo=gmail&logoColor=ff4444&labelColor=0d0d0d)](mailto:vikassaxena816@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT_NOW-ffaa00?style=for-the-badge&logo=vercel&logoColor=ffaa00&labelColor=0d0d0d)](https://portfolio2-0-53k4.vercel.app/)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+## `> TERMINAL.log("fun_facts")`
+
+```
+vikas@universe:~$ cat fun_facts.log
+
+[01] 🧠  Philosophy:  "Clean code > clever code. Always."
+[02] ☕  Fuel:        Coffee (minimum 2 cups/day to maintain peak performance)
+[03] 🎵  Environment: Lo-fi beats + dark theme + mechanical keyboard clicks
+[04] 🌙  Peak Hours:  2AM — when bugs sleep and code flows freely
+[05] 🎮  Secret Buff: Video games taught me better UX than any textbook
+[06] 🚀  Belief:      Every great product started as a README just like this one
+[07] 🌐  Dream:       Open source contribution that millions of devs depend on
+
+vikas@universe:~$ █
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║    ⚡ POWERED BY INNOVATION  |  🎯 DESIGNED FOR IMPACT           ║
+║    💙 CRAFTED WITH PASSION   |  🌍 BUILT FOR THE WORLD           ║
+║                                                                   ║
+║         "The best way to predict the future is to build it."     ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://komarev.com/ghpvc/?username=vikassax1610&style=for-the-badge&color=00f7ff&labelColor=0d0d0d&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/vikassax1610?style=for-the-badge&color=ff00ff&labelColor=0d0d0d&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/vikassax1610?style=for-the-badge&color=00ff41&labelColor=0d0d0d&label=TOTAL+STARS" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" width="100%" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=&fontSize=0&animation=twinkling" width="100%"/>
+
+</div>
