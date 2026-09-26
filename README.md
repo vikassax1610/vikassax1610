@@ -43,7 +43,7 @@
 <tr>
 <td width="50%">
 
-### 🌐 [Personal Portfolio](https://vercel.com/vikassax1610s-projects/portfolio2-0-53k4)
+### 🌐 [Personal Portfolio](https://portfolio2-0-lime.vercel.app/)
 **Modern portfolio website**  
 `React` `TypeScript` `Tailwind CSS` `Framer Motion`
 
