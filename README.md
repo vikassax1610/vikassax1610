@@ -89,6 +89,9 @@ Feature-rich task management app with offline support and cloud synchronization.
   <p>
     <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,bootstrap" />
   </p>
+  <p>
+    <img src="https://img.shields.io/badge/PixiJS-e91e8c?style=for-the-badge&logo=pixijs&logoColor=white" alt="PixiJS" />
+  </p>
 </details>
 
 <details open>
