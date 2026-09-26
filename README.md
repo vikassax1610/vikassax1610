@@ -1,6 +1,6 @@
 <h1 align="center">
   Hello, I'm VIKAS SAXENA! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="👋" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35px" alt="👋" />
 </h1>
 
 <p align="center">
@@ -14,27 +14,23 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation" />
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="3" width="100%">
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" width="35"/> About Me
 
-<img src="https://img.icons8.com/emoji/48/graduation-cap-emoji.png" width="25"/> <b>Computer Science Student</b> | Building Tomorrow's Tech Today<br>
-<img src="https://img.icons8.com/fluency/48/laptop.png" width="25"/> <b>Full-Stack Developer</b> | Passionate About Clean Code<br>
-<img src="https://img.icons8.com/color/48/marker.png" width="20"/> <b>Location:</b> Noida, India<br>
-<span style="font-size:20px;" aria-hidden="true">🚀</span>
-<b>Mission:</b> Creating Digital Solutions That Matter
+🎓 **Computer Science Student** | Building Tomorrow's Tech Today<br>
+💻 **Full-Stack Developer** | Passionate About Clean Code<br>
+📍 **Location:** Noida, India<br>
+🚀 **Mission:** Creating Digital Solutions That Matter
 
-
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="3" width="100%">
 
 <!-- Featured Projects -->
 <div align="center">
   <h2>
-    <img src="https://i.gifer.com/7efs.gif" width="40" style="vertical-align:middle;"/>
     🌟 Featured Projects
   </h2>
 </div>
@@ -72,8 +68,8 @@ Comprehensive dashboard with analytics, inventory management, and real-time sale
 </td>
 <td width="50%">
 
-### 🤖 [Content generator](https://aigenerator-seven.vercel.app/)
-**Ai Content Generator**  
+### 🤖 [Content Generator](https://aigenerator-seven.vercel.app/)
+**AI Content Generator**  
 `React js` `Google Gemini`
 
 Feature-rich task management app with offline support and cloud synchronization.
@@ -82,7 +78,7 @@ Feature-rich task management app with offline support and cloud synchronization.
 </tr>
 </table>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="3" width="100%">
 
 <div align="center">
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" width="40"/> Technology Arsenal</h1>
@@ -116,7 +112,7 @@ Feature-rich task management app with offline support and cloud synchronization.
   </p>
 </details>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="3" width="100%">
 
 <div align="center">
   <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" alt="Chart" width="40" /> GitHub Analytics</h1>
@@ -140,7 +136,7 @@ Feature-rich task management app with offline support and cloud synchronization.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikassax1610&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" />
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="3" width="100%">
 
 <div align="center">
   <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Contact" width="40" /> Let's Connect
@@ -169,7 +165,7 @@ Feature-rich task management app with offline support and cloud synchronization.
   </a>
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="3" width="100%">
 
 <div align="center">
 <h2>🌈 Fun Facts About Me</h2>
@@ -199,7 +195,7 @@ Master microservices architecture and contribute to open-source projects.
 
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="3" width="100%">
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=vikassax1610&style=for-the-badge&color=blueviolet" alt="Profile Views" />
