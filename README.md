@@ -123,7 +123,7 @@ Feature-rich task management app with offline support and cloud synchronization.
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikassax1610&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikassax1610&theme=tokyonight" width="100%" />
 </div>
 
 <p align="center">
